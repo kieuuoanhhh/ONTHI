@@ -1,3 +1,4 @@
+// Cho mang mot chieu cac so nguyem. Hay viet ham liet ke cac gia tri chan co it nhat 1 lan can cung la gia tri chan
 #include<stdio.h>>
 #include<conio.h>
 #include<math.h>
